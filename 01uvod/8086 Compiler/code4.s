@@ -2,8 +2,8 @@
 ; opet sabiranje 2 veca broja
 ; simulator je na https://yjdoc2.github.io/8086-emulator-web/
 
-;vrednosti koje se sabiraju se prvo upisuju u RAM...
-;ali sada se za podatke koristi rec, Word, 2 bajta, ne samo 1
+; vrednosti koje se sabiraju se prvo upisuju u RAM...
+; ali sada se za podatke koristi rec, Word, 2 bajta, ne samo 1
 a: DW 100 ; a = 100, malo veci broj, ali ide u 2B
 b: DW 200 ; b = 200, malo veci broj, ali ide u 2B
 c: DW 0 ; c = 0, za zbir
