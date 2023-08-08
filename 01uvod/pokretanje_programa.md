@@ -2,7 +2,7 @@
 Kompajliranje, pokretanje programa u Linux-u
 
 ## C
-gcc ime.c
+gcc ime.c<br>
 ./a.out
 
 ## C++
