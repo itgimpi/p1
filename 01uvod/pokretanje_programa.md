@@ -1,4 +1,5 @@
-#Linux
+# Linux
+Kompajliranje, pokretanje programa
 
 ## C
 gcc ime.c
@@ -12,7 +13,7 @@ g++ ime.cpp
 python3 ime.py
 
 
-#Windows
+# Windows
 
 ## C
 gcc ime.c
