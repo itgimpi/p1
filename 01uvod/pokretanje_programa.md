@@ -1,5 +1,5 @@
 # Linux
-Kompajliranje, pokretanje programa
+Kompajliranje, pokretanje programa u Linux-u
 
 ## C
 gcc ime.c
