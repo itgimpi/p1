@@ -2,7 +2,7 @@
 Programi iz programiranja 1 za skolsku 2023/24 godinu
 
 ## Uvod
-Zadaci sa letnjeg raspusta i sa pocetka, ukratko
+Zadaci sa letnjeg raspusta i sa početka, ukratko
 uvodni zadaci...
 
 ## Petlja
