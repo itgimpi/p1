@@ -1,5 +1,5 @@
 ; 5 + -5, ZF = 1
-
+; sabiranje
 
 a: DB 5 ; a = 5
 b: DB -5 ; b = 5
