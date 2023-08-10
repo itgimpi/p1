@@ -1,9 +1,9 @@
 ; 5 - 5, ZF = 1
-
+; zastavica za nulu posle oduzimanja
 
 a: DB 5 ; a = 5
 b: DB 5 ; b = 5
-;              
+; 5 - 5 = 0             
 c: DB 0 ; c = 0, Write into RAM, on Address &c
 
 start:
