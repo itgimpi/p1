@@ -10,7 +10,7 @@ c: DB 0 ; c = 0, Write into RAM, on Address &c
 start:
 
     mov AL, byte a ; Move from RAM into CPU, into Reg. A
-    mov AL, byte b ; Move from RAM into CPU, into Reg. B
+    mov BL, byte b ; Move from RAM into CPU, into Reg. B
           
     add AL, BL; saberi A + B, zbir upisi u 1 bajt A registra
     MOV byte c, AL ; Move from CPU, Reg. B, into RAM, address &c
