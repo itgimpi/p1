@@ -20,9 +20,7 @@ int main() {
 
     }
 
-
-
-    //cout << tmax << '\n';
+    //cout << tmax << '\n'; NE TREBA
     cout << dmax << '\n';
 
     return 0;  
