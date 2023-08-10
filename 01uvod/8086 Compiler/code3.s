@@ -10,7 +10,7 @@ c: DB 0 ; c = 0, za zbir
 start:
 
     mov AL, byte a ; A = 100
-    mov AL, byte b ; B = 200
+    mov BL, byte b ; B = 200
           
     add AL, BL; saberi A + B, zbir upisi u 1 bajt A registra
     ; 100 + 200 je 300
