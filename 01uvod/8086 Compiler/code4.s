@@ -11,7 +11,7 @@ c: DW 0 ; c = 0, za zbir
 start:
 
     mov AX, word a ; A = 100
-    mov AX, word b ; B = 200
+    mov BX, word b ; B = 200
           
     add AX, BX; saberi A + B, zbir upisi u 2 bajta A registra
     ; 100 + 200 je 300
