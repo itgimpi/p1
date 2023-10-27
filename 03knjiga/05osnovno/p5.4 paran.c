@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* Program koji ispituje da li je uneti broj paran */
+/* Ispituje da li je uneti broj paran */
 int main() {
     int a;
     printf("Unesi broj: ");
