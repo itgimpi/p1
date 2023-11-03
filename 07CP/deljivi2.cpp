@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//brzo
+// brzo
 
 int main() {
     int a, b, k, br = 0;
