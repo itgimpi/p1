@@ -2,8 +2,8 @@
     // promenljive x, y, z
     // kao i niz a su deklarisani pre main-a
     int x, y, z;
-    int a[1000];
-    
+    int a[1000]; // C/C++ omogucavaju vece nizove pre main-a
+
 int main() {
 
     printf("%i %i %i\n", x, y, z); // 3 promenljive
