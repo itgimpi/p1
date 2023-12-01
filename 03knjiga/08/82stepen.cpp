@@ -5,6 +5,7 @@ const unsigned NAJ = 10;
 
 //tip naziv      dva parametra
 float stepen(float osnova, unsigned stepen) {
+	
 // lose resenje za takmicarsko prog. O(n)
 // dobro resenje O( log n )
 
