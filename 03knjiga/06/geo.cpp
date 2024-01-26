@@ -21,7 +21,7 @@ typedef struct { // point je novi tip - struktura
     double y; } point;
 
 double dist0(point p){
-    return sqrt(p.x*p.x+p.y*p.y); }
+    return sqrt(p.x * p.x + p.y * p.y); }
 
 int main() {
     /*double x, y; cin >> x >> y; // bez struktura
