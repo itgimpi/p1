@@ -1,17 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// C++ biblio f-je
 int main() {
-    int n; cin >> n;
-    queue<int>q;
-    int x;
-    for( int i = 0; i < n; i++ ){
-        cin >> x;
-        q.push(x); }
+    //int a[] = {1,5,10,15,15,20,20,20};
+    vector<int>v {1,5,10,15,15,20,20,20};
+    cout << v[0] << endl;
 
-    while ( !q.empty() ){
-        cout << q.front() << endl;
-        q.pop(); }
     
     return 0;  
 }
