@@ -1,0 +1,186 @@
+Test 10.6.2022.
+
+
+1. Iskopiraj jedan fajl u drugi. Program nazovi: "p1.c". (1p)
+
+2. Ispiši svoje ime u 8 redova. "p2.c". Imena snimi u fajl "2.txt". (1p)
+               Pera
+               Pera 
+               ...
+
+3. Ispiši svoje ime u n redova (korisnik unosi n). "p3.c". (2p)
+Imena za n=1000 snimi u fajl "3.txt".   
+
+
+4. Ispiši prvih 8 prirodnih brojeva u 8 redova. "p4.c". (1p)
+Brojeve snimi u fajl "4.txt".
+               1
+               2
+               ...
+
+5. Ispiši prvih n prirodnih brojeva u n redova (korisnik unosi n). "p5.c". (2p)
+Brojeve za n=1000 snimi u fajl "5.txt".
+
+
+6. Napravi šahovsku tablu 8x8 i upiši je u fajl "6.txt". "p6.c".  (1p)      
+                 0101... (0 je belo, 1 je crno polje)                
+                 1010...
+
+
+7. Napravi šahovsku tablu nxn (korisnik unosi n). "p7.c". (2p) 
+Šahovsku tablu za n=1000 snimi u fajl "7.txt".
+
+
+8. Napravi matricu 8x8, gde je svaki element matrice i broj kolone. "p8.c". (1p) 
+Matricu 8x8 snimi u fajl "8.txt".              
+                0123...
+                0123...
+
+
+
+9. Napravi matricu nxn, gde je svaki element matrice i broj kolone. "p9.c".  (2p)
+Matricu za n=1000 snimi u fajl "9.txt".              
+
+
+10. Napravi matricu 8x8, gde je svaki element rb po redovima, sleva na desno. "p10.c". (1p)
+Matricu 8x8 snimi u fajl "10.txt".              
+              0  1  2  3...
+              8  9 10 11...
+             16 17 18 19... 
+
+
+11. Napravi matricu nxn, gde je svaki element rb po redovima, sleva na desno.  (2p)
+"p11.c". Matricu za n=1000 snimi u fajl "11.txt".              
+
+
+12. Napiši program koji u "djak1.bin" unosi sledeće slogove za dva učenika:
+Ime i prezime - 30 slova - npr. Pera Peric
+Datum rođenja - 8 cifara - 10052022
+Pol - 1 slovo - z
+JMBG - 13 cifara
+Ocena na testu iz programiranja - broj do 5 - 5
+Broj poena na testu - broj do 240 - 205
+
+Program snimi kao "p12a.c".(2p) 
+Program koji čita podatke iz binarnog fajla i ispisuje na ekran kao "p12b.c".(2p) 
+
+
+13. Napiši program koji u "djak1.bin" unosi sledeće slogove za n učenika:
+Ime i prezime - 30 slova - Pera Peric
+Datum rođenja - 8 cifara - 10052022
+Pol - 1 slovo - z
+JMBG - 13 cifara
+Ocena na testu iz programiranja - broj do 5 - 5
+Broj poena na testu - broj do 240 - 205
+
+Program snimi kao "p13a.c". (5p) 
+Program koji čita podatke iz binarnog fajla i ispisuje na ekran kao "p13b.c". (5p) 
+
+14. Napiši program "p14.c" ili "p14.cpp", pri čemu se dimenzija n unosi (primer je za n = 4), koji u fajl 14.txt ispisuje dijagram: (10p)
+
+****
+***
+**
+*
+
+15. Napiši program "p15.c" ili "p15.cpp", pri čemu se dimenzija n unosi (primer je za n = 4), koji u fajl 15.txt ispisuje dijagram: (10p)
+
+*
+**
+***
+****
+
+16. Napiši program "p16.c" ili "p16.cpp", pri čemu se dimenzija n unosi (primer je za n = 4), koji u fajl 16.txt ispisuje dijagram: (10p)
+
+****
+ ***
+  **
+   *
+
+17. Napiši program "p17.c" ili "p17.cpp", pri čemu se dimenzija n unosi (primer je za n = 4), koji u fajl 17.txt ispisuje dijagram: (10p)
+
+   *
+  **
+ ***
+****
+
+18. Napiši program "p18.c" ili "p18.cpp", pri čemu se dimenzija n unosi (primer je za n = 4), koji u fajl 18.txt ispisuje dijagram: (20p)
+
+* * * *
+ * * *
+  * *
+   *
+
+19. Napiši program "p19.c" ili "p19.cpp", pri čemu se dimenzija n unosi (primer je za n = 4), koji u fajl 18.txt ispisuje dijagram: (20p)
+
+   *
+  * *
+ * * *
+* * * *
+
+20. Napiši program "p20.c" ili "p20.cpp" koji u fajl 20.txt, za uneti broj, ispisuje ASCII ART sa ciframa: (50p)
+
+    __  __        __  __  ___  __   __   __  
+ /|  _)  _) |__| |_  /__    / (__) (__\ /  \ 
+  | /__ __)    | __) \__)  /  (__)  __/ \__/ 
+                                             
+
+21. Napiši program "p21.c" ili "p21.cpp" koji u fajl 21.txt, za unetu reč, ispisuje ASCII ART sa slovima: (100p)
+                        _                                                                                       
+ _   |_    _   _|   _  (_   _   |_   .  .  |   |   _    _    _    _    _    _   _  |_                        _  
+(_|  |_)  (_  (_|  (-  |   (_)  | )  |  |  |(  |  |||  | )  (_)  |_)  (_|  |   _)  |_  |_|  \/  \)/  )(  \/  /_ 
+                           _/           /                        |      |                                /      
+
+22. Napiši program "p22.c" ili "p22.cpp" koji u fajl 22.txt, za kombinaciju slova, cifara i razmaka, ispisuje ASCII ART sa slovima i ciframa iz 20 i 21. (200p)
+
+23. Napiši program "p23.c" ili "p23.cpp" koji u fajl 23.txt, za uneti broj, ispisuje ASCII ART sa ciframa: (150p)
+
+
+   #    #####   #####  #       #######  #####  #######  #####   #####    ###   
+  ##   #     # #     # #    #  #       #     # #    #  #     # #     #  #   #  
+ # #         #       # #    #  #       #           #   #     # #     # #     # 
+   #    #####   #####  #    #  ######  ######     #     #####   ###### #     # 
+   #   #             # #######       # #     #   #     #     #       # #     # 
+   #   #       #     #      #  #     # #     #   #     #     # #     #  #   #  
+ ##### #######  #####       #   #####   #####    #      #####   #####    ###   
+
+                                             
+
+24. Napiši program "p24.c" ili "p24.cpp" koji u fajl 24.txt, za unetu reč, ispisuje ASCII ART sa slovima: (250p)
+                    
+                                                                                                                                                                                
+   ##   #####   ####  #####  ###### ######  ####  #    # #      # #    # #      #    # #    #  ####  #####   ####  #####   ####  ##### #    # #    # #    # #    # #   # ###### 
+  #  #  #    # #    # #    # #      #      #    # #    # #      # #   #  #      ##  ## ##   # #    # #    # #    # #    # #        #   #    # #    # #    #  #  #   # #      #  
+ #    # #####  #      #    # #####  #####  #      ###### #      # ####   #      # ## # # #  # #    # #    # #    # #    #  ####    #   #    # #    # #    #   ##     #      #   
+ ###### #    # #      #    # #      #      #  ### #    # #      # #  #   #      #    # #  # # #    # #####  #  # # #####       #   #   #    # #    # # ## #   ##     #     #    
+ #    # #    # #    # #    # #      #      #    # #    # # #    # #   #  #      #    # #   ## #    # #      #   #  #   #  #    #   #   #    #  #  #  ##  ##  #  #    #    #     
+ #    # #####   ####  #####  ###### #       ####  #    # #  ####  #    # ###### #    # #    #  ####  #       ### # #    #  ####    #    ####    ##   #    # #    #   #   ###### 
+                                                                                                                                                                                
+
+
+25. Napiši program "p25.c" ili "p25.cpp" koji u fajl 25.txt, za kombinaciju slova, cifara i razmaka, ispisuje ASCII ART sa slovima i ciframa iz 23 i 24. (500p)   
+
+26. Napiši program "p26.c" ili "p26.cpp" koji u fajl 26.txt, ispisuje kaligrafski tekst: (1000p) 
+
+                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                     
+             *                        **                 ***                   *                        *        ***                                                                                                                                                                                                 
+           **                          **              ** ***                **          *       *    **          ***                                                                                               *                                                                                                
+           **                          **             **   ***               **         ***     ***   **           **                                                                                              **                   **           **                                                              
+           **                          **             **                     **          *       *    **           **                                                                                              **                   **           **                                                              
+           **                          **             **                     **                       **           **                                     ****       ****       ****    ***  ****       ****     ******** **   ****      **    ***    **    ***    ****      ***    ***    **   ****        ******   
+   ****    ** ****       ****      *** **      ***    ******       ****      **  ***   ***     ***    **  ***      **    *** **** ****    ***  ****      * ***  *   * ***  *   * ***  *  **** **** *   * **** * ********   **    ***  *   **    ***    **    ***     ***  * * ***  **** *   **    ***  *   ********  
+  * ***  * *** ***  *   * ***  *  *********   * ***   *****       *  ***  *  ** * ***   ***     ***   ** * ***     **     *** **** ***  *  **** **** *  *   ****   *   ****   *   ****    **   ****   **  ****     **      **     ****    **     ***   **     ***     ****     *** *****    **     ****   *      **  
+ *   ****  **   ****   *   ****  **   ****   *   ***  **         *    ****   ***   ***   **      **   ***   *      **      **  **** ****    **   ****  **    **   **    **   **    **     **         ****          **      **      **     **      **   **      **      **       ***  **     **      **           *   
+**    **   **    **   **         **    **   **    *** **        **     **    **     **   **      *    **   *       **      **   **   **     **    **   **    **   **    **   **    **     **           ***         **      **      **     **      **   **      **      **        ***        **      **          *    
+**    **   **    **   **         **    **   ********  **        **     **    **     **   **     *     **  *        **      **   **   **     **    **   **    **   **    **   **    **     **             ***       **      **      **     **      **   **      **      **       * ***       **      **         ***   
+**    **   **    **   **         **    **   *******   **        **     **    **     **   **    ***    ** **        **      **   **   **     **    **   **    **   **    **   **    **     **               ***     **      **      **     **      **   **      **      **      *   ***      **      **          ***  
+**    **   **    **   **         **    **   **        **        **     **    **     **   **     ***   ******       **      **   **   **     **    **   **    **   **    **   **    **     **          ****  **     **      **      **     **      *    **      **      *      *     ***     **      **           *** 
+**    **   **    **   ***     *  **    **   ****    * **        **     **    **     **   **      ***  **  ***      **      **   **   **     **    **    ******    *******     *******     ***        * **** *      **       ******* **     *******      ******* *******      *       *** *   *********            ** 
+ ***** **   *****      *******    *****      *******  **         ********    **     **   *** *    *** **   *** *   *** *   ***  ***  ***    ***   ***    ****     ******       ******      ***          ****        **       *****   **     *****        *****   *****      *         ***      **** ***           ** 
+  ***   **   ***        *****      ***        *****    **          *** ***    **    **    ***      **  **   ***     ***     ***  ***  ***    ***   ***            **               **                                                                                                                ***          *  
+                                                                        ***         *              **                                                             **               **                                                                                                         *****   ***        *   
+                                                                  ****   ***       *               *                                                              **               **                                                                                                       ********  **        *    
+                                                                *******  **       *               *                                                                **               **                                                                                                     *      ****         *     
+                                                               *     ****        *               *                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                     
