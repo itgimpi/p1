@@ -1,4 +1,4 @@
-Test 10.6.2022.
+Test 15.5.2025.
 
 
 1. Iskopiraj jedan fajl u drugi. Program nazovi: "p1.c". (1p)
